@@ -1,5 +1,5 @@
 /* Ashen Imperium offline shell. Bump CACHE when shipping a new build. */
-const CACHE = 'ashen-imperium-v4';
+const CACHE = 'ashen-imperium-v5';
 const ASSETS = [
   './assets/cinzel-latin-600-normal-CH_LB4su.woff',
   './assets/cinzel-latin-600-normal-Dd5YO2UX.woff2',
